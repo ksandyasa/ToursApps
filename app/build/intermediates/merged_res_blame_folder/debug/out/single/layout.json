@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_sub_main.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/activity_sub_main.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_browse_detail.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/fragment_browse_detail.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_profile.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/fragment_profile.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_tours_detail.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/fragment_tours_detail.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_browse.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/fragment_browse.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/tabs_item.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/tabs_item.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/tours_sub_item.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/tours_sub_item.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_tours_list.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/fragment_tours_list.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_tours_sub_list.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/fragment_tours_sub_list.xml"
+    },
+    {
+        "merged": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/tours_item.xml",
+        "source": "/Users/apridosandyasa/Documents/AndroidListSourceCode/Tours/app/src/main/res/layout/tours_item.xml"
+    }
+]

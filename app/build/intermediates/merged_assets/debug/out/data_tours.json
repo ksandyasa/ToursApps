@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "parent_id": 0,
+    "title": "University Park Campus",
+    "sub_place": 2,
+    "description": "<p>University Park is The University of Nottingham’s largest campus at 300 acres. Part of the University since 1929, the campus is widely regarded as one of the largest and most attractive in the country.</p><p>Set in extensive greenery and around a lake, University Park is the focus of life for students, staff and visitors. Conveniently located only two miles from the city centre, the campus contains:</p><ul>\n<li>period buildings</li>\n<li>modern state-of-the-art teaching and research facilities</li>\n<li>12 halls of residence (accommodating over 3,000 students)</li>\n<li>several award-winning buildings</li>\n<li><a title=\"East Midlands Conference Centre\" class=\"sys_0 sys_t0\" href=\"/conference/facilities/emcc/index.aspx\">a conference and exhibition centre</a></li>\n<li><a title=\"Sports facilities\" class=\"sys_0 sys_t0\" href=\"/about/facilities/sports.aspx\">sports facilities</a></li>\n<li>the <a title=\"Lakeside Arts Centre\" class=\"sys_16\" href=\"http://www.lakesidearts.org.uk/\">Lakeside Arts Centre</a></li>\n</ul><p>The hub of student life is the Portland Building, which houses the Students' Union, the Student Support Centre, as well as shops, banks, bars and restaurants.</p><p>The local community are welcome to enjoy the <a title=\"Walks in the grounds\" class=\"sys_0 sys_t0\" href=\"/sustainability/grounds/friendsofuniversitypark.aspx\">walks</a>, parks and <a title=\"Gardens\" class=\"sys_0 sys_t0\" href=\"/sustainability/grounds/greenspaces.aspx\">gardens</a> in the University’s landscaped settings which feature:</p><ul>\n<li>long-established woodland</li>\n<li>contemporary gardens</li>\n<li>the Millennium Garden - a quiet, reflective place in which to escape the hustle and bustle of campus life</li>\n</ul><p>The campus has been a Civic Trust <a title=\"Green Flag Award\" class=\"sys_16\" href=\"http://www.greenflagaward.org.uk/\">Green Flag Award</a> Winner every year since 2003 – the only university campus to achieve this status.&nbsp;</p><p>Please visit&nbsp;<a title=\"guides, walks and information about the Friends of University Park\" class=\"sys_16\" href=\"http://www.nottingham.ac.uk/estate/grounds.htm\">Estates&nbsp;website</a> for more information about the grounds.</p>",
+    "images": "https://www.nottingham.ac.uk/about/images/campuses/campuses-trent.jpg"
+  },
+  {
+    "id": 2,
+    "parent_id": 1,
+    "title": "East Midlands Conference Centre",
+    "sub_place": 0,
+    "description": "<p>A purpose-built, award-winning conference centre, sited adjacent to the Orchard Hotel. Following a multi-million pound refurbishment, the centre provides state-of-the-art meetings and event spaces, banqueting suites and magnificent, contemporary public spaces. The venue features:</p><ul>\n<li>a tiered theatre for up to 520</li>\n<li>spacious banqueting and exhibition suite for up to 1000&nbsp;</li>\n<li>14 further conference&nbsp;rooms</li>\n<li>free Wi-Fi</li>\n<li>free onsite parking</li>\n</ul><p>Set within the beautifully landscaped parkland of Nottingham University’s Park Campus and with over <b>35 years’ experience in running large events</b>, you’ll find the East Midlands Conference Centre ideal.</p>",
+    "images": "https://www.nottingham.ac.uk/Conference/Images-multimedia/EMCC/reception1466x280.jpg"
+  },
+  {
+    "id": 3,
+    "parent_id": 1,
+    "title": "Sports Facilities",
+    "sub_place": 0,
+    "description": "<p> In keeping with the sporting focus of the City, the University has many opportunities for those who want to play sport at any level: from casual sport and <a title=\"University sports leagues\" class=\"sys_0 sys_t0\" href=\"/sport/intramural-sports-programme/intramural-sports-leagues.aspx\">University leagues</a>, Nationwide university leagues, and <a title=\"Sports opportunities for elite athletes\" class=\"sys_0 sys_t0\" href=\"/sport/performance-sport/sports-scholarships/index.aspx\">elite athletes</a>.</p><ul>\n <li> <a title=\"Sports clubs\" class=\"sys_16\" href=\"http://www.su.nottingham.ac.uk/sports/\"><strong>Sports clubs</strong></a> - <a title=\"The Athletics Union at The University of Nottingham\" class=\"sys_16\" href=\"http://www.su.nottingham.ac.uk/sports/\">U</a>niversity of Nottingham Sport runs <a title=\"Sports clubs\" class=\"sys_16\" href=\"http://www.su.nottingham.ac.uk/sports/\">approximately 70 different sports clubs</a> covering a range of indoor and outdoor sports, martial arts, water sports and outdoor pursuits. </li>\n <li> <a title=\"Charity Varsity Series\" class=\"sys_16\" href=\"http://www.su.nottingham.ac.uk/activities2/sports/varsity/\"><strong>Charity Varsity Series</strong></a> - The University of Nottingham and rivals Nottingham Trent University compete in this annual event for charity. A highlight of The University’s sporting calendar. </li>\n <li> <a title=\"British University and Colleges Sport (BUCS) website\" class=\"sys_16\" href=\"http://www.bucs.org.uk/\"><strong>British University and Colleges Sport (BUCS)</strong></a> – In the last 15 years Nottingham teams have consistently finished in the top 10 out of 140 competing institutions. </li>\n</ul><p> The University has an extensive range of sport facilities, including a Sports Centre, Fitness Centre and swimming pool. The main sports facilities are located on the <a title=\"Sports facilities at University Park Campus\" class=\"sys_16\" href=\"http://www.nottingham.ac.uk/sport/unipark.php\">University Park Campus</a>, with facilities also available at the <a title=\"Sports facilities at Jubilee Campus\" class=\"sys_16\" href=\"http://www.nottingham.ac.uk/sport/jubilee.php\">Jubilee</a> and <a title=\"Sports facilities, Sutton Bonington Campus\" class=\"sys_16\" href=\"http://www.nottingham.ac.uk/sport/suttonbon.php\">Sutton Bonington</a> campuses.</p><p> There are <a title=\"Sports bursary schemes\" class=\"sys_0 sys_t0\" href=\"/sport/performance-sport/sports-scholarships/index.aspx\">sports bursary schemes</a> available for outstandingly talented students who have reached international or regional standard in any sport. Over the years many Nottingham students have seen national and international success.</p>",
+    "images": "https://www.nottingham.ac.uk/About/Images/sports.jpg"
+  },
+  {
+    "id": 4,
+    "parent_id": 0,
+    "title": "Jubilee Campus",
+    "sub_place": 3,
+    "description": "<p>Jubilee Campus is a modern purpose-built campus which now extends to 65 acres and is located only one mile from University Park. The initial phase was opened by Her Majesty the Queen in 1999. The state-of-the-art facilities now include:</p><ul>\n<li>the Schools of <a title=\"Welcome to the School of Education\" class=\"sys_0 sys_t0\" href=\"/education/index.aspx\">Education</a> (including CELE)&nbsp;and <a title=\"School of Computer Science\" class=\"sys_0 sys_t0\" href=\"/computerscience/index.aspx\">Computer Science</a></li>\n<li>The <a title=\"Home\" class=\"sys_16\" href=\"https://www.nottingham.ac.uk/business/\">Nottingham University Business School</a></li>\n<li>The National College for Leadership of Schools and Children's Services&nbsp;</li>\n<li>a Sports Centre</li>\n<li>University of Nottingham Innovation Park</li>\n<li>4000 third party purpose-built student residences within half a mile radius of the campus</li>\n</ul>",
+    "images": "https://www.nottingham.ac.uk/about/images/campuses/campuses-jubilee.jpg"
+  },
+  {
+    "id": 5,
+    "parent_id": 4,
+    "title": "School of Education",
+    "sub_place": 0,
+    "description": "The School of Education welcomes students, scholars and other partners into our vibrant global community. We work globally through our international campuses and innovative courses, and locally through partnership schools, professional networks and diverse communities.",
+    "images": "https://cfvod.kaltura.com/p/1355621/sp/135562100/thumbnail/entry_id/1_eo561w0q/version/100051/width/346/height/250"
+  },
+  {
+    "id": 6,
+    "parent_id": 4,
+    "title": "School of Computer Science",
+    "sub_place": 0,
+    "description": "<p>We are global experts in user experience design, virtual reality, artificial intelligence and data science. We offer our students a variety of modules and research projects in these areas and more.</p><p>We work with both local and global companies such as Google, Capital One and Microsoft on student projects and to offer work placements.</p><p>Our research groups are developing the technology of the future. They guide our teaching and keep the curriculum current and exciting.&nbsp;</p>",
+    "images": "https://cfvod.kaltura.com/p/1355621/sp/135562100/thumbnail/entry_id/1_3yuj0o4g/version/100011/width/468/height/292"
+  },
+  {
+    "id": 7,
+    "parent_id": 4,
+    "title": "Nottingham University Business School",
+    "sub_place": 0,
+    "description": "<p>Nottingham University Business School is proud to join an elite group of business schools worldwide to gain ‘triple crown’ accreditation from the three most influential accrediting organisations: AACSB, AMBA, and EQUIS.</p><p>The school has earned accreditation from AACSB International—The Association to Advance Collegiate Schools of Business (AACSB) for all three of its locations in the UK, China and Malaysia, making it the only business school in the UK to hold triple accreditation for its operations on every campus.</p><p>The ‘triple crown’ accreditation for business schools worldwide is made up of the three most influential accrediting organisations: AACSB in the United States, AMBA in the UK, and EQUIS in Europe.&nbsp;Employers and universities recognise the accolade as a mark of high standards, quality and reputation.</p>",
+    "images": "https://www.nottingham.ac.uk/CachedImage.axd?ImageName=%2fbusiness%2fimages-multimedia%2fpeople%2fenactusnottsresize.jpg&ImageWidth=400&ImageHeight=400"
+  },
+  {
+    "id": 8,
+    "parent_id": 0,
+    "title": "Sutton Bonington Campus",
+    "sub_place": 3,
+    "description": "<p>Sutton Bonington Campus encompasses world-leading laboratories and specialist facilities for studying biosciences and veterinary medicine.</p><p>The campus is home to over 2,500 students from the <a title=\"School of Biosciences\" class=\"sys_0 sys_t0\" href=\"/biosciences/index.aspx\">Schools of Biosciences</a> and <a title=\"Welcome to Veterinary Medicine and Science\" class=\"sys_0 sys_t0\" href=\"/vet/index.aspx\">Veterinary Medicine</a>, which creates a place where it’s easy to get to know your fellow students and teaching teams, yet part of a wider global community.</p><ul>\n<li>Sutton Bonington is affectionately known as ‘SB’ to those that study, work and live here, which defines the culture and atmosphere. It is a relaxed and friendly place where you’ll feel at home, with access to help and support when you need it.</li>\n<li>The Guild is the dedicated campus Students' Union, run by students for students.&nbsp; They provide a varied calendar of events and student-led activities throughout the year.</li>\n<li>There are over 40 societies based at Sutton Bonington Campus to get involved in, from music soc, dance and SB players to climbing, lacrosse and biking. You can join existing sports clubs and societies or start your own.</li>\n</ul><p>Our continued investment provides inspiring and dynamic spaces for you to study and learn.</p><p>From the <a title=\"University of Nottingham Farm\" class=\"sys_0 sys_t0\" href=\"/farm/index.aspx\">University Farm</a>, <a title=\"Centre for Dairy Science Innovation\" class=\"sys_0 sys_t0\" href=\"/research/groups/cdsi/index.aspx\">Centre for Dairy Science Innovation</a> and animal small holdings, to the paperless Super Lab, specialist glasshouses and food processing facility.</p><p>You will find everything you need to enjoy student life and feel supported on Sutton Bonington Campus including:</p><ul>\n<li>halls of residence</li>\n<li>café</li>\n<li>restaurant</li>\n<li>bar</li>\n<li><a title=\"Sutton Bonington Sports Centre\" class=\"sys_0 sys_t0\" href=\"/sport/sport-facilities/sutton-bonington.aspx\">sports centre</a></li>\n<li><a title=\"James Cameron-Gifford Library\" class=\"sys_0 sys_t0\" href=\"/library/using/libraries/jcg/jcg.aspx\">library</a></li>\n<li>chaplaincy</li>\n<li>Student Services Hub, for welfare and support</li>\n</ul><p>It’s easy to access other campuses using the <a title=\"Hopper buses\" class=\"sys_0 sys_t0\" href=\"/sustainability/transport/travellingbetweencampuses/hopper-buses.aspx\">free hopper bus</a> that connects Sutton Bonington and <a title=\"University Park Campus\" class=\"sys_0 sys_t0\" href=\"/about/campuses/universityparkcampus.aspx\">University Park</a> Campuses, and the Nottingham tram network.</p>",
+    "images": "https://www.nottingham.ac.uk/about/images/campuses/campuses-sb.jpg"
+  },
+  {
+    "id": 9,
+    "parent_id": 8,
+    "title": "University of Nottingham Farm",
+    "sub_place": 0,
+    "description": "<p>With 445 hectares (1,100 acres) of land, we provide facilities for teaching and research while producing over 2m litres of milk a year, lambs from a grass based grazing system and a range of field crops, including milling and feed wheats, oilseed rape, maize, beans and triticale.</p><p>The farm has areas of stewardship land, including field margins, beetle banks and ponds as well as extensive areas of woodland.</p><p>We use the farm in our undergraduate programmes in Agriculture, and the Farm Office is based on the Sutton Bonington Campus of the University, with the main land holding and University Dairy Centre nearby.&nbsp;</p>",
+    "images": "https://www.nottingham.ac.uk/Farm/images-multimedia/home-rotate/farm-hp-main-04.JPG"
+  },
+  {
+    "id": 10,
+    "parent_id": 8,
+    "title": "Centre for Dairy Science Innovation",
+    "sub_place": 0,
+    "description": "<p>The CDSI brings together existing expertise in Dairy Science, Dairy Herd Health and Welfare and Dairy Food Science.</p><p>The formation of CDSI sees a substantial investment in the dairy facilities at the University of Nottingham’s Sutton Bonington Campus, considerably expanding and redeveloping the existing research unit, creating internationally leading dairy science research facilities.</p><p>The facility is co-funded by CIEL (Centre for Innovation Excellence in Livestock), one of four UK Agri-Tech Centres of Agricultural Innovation created with the support of Innovate UK, the UK’s innovation agency. CIEL brings together 12 world-class research institutes creating one of Europe’s largest livestock research hubs to develop new industry-needed solutions with the ultimate aim of delivering improved food quality and farming systems.</p>",
+    "images": "https://www.nottingham.ac.uk/research/groups/cdsi/images/inside-the-centre-for-dairy-science-innovation.jpg"
+  },
+  {
+    "id": 11,
+    "parent_id": 8,
+    "title": "Sutton Bonington Sports Centre",
+    "sub_place": 0,
+    "description": "<p>Sutton Bonington sports centre is ideal for students, staff and members of the community based near our rural Sutton Bonington campus.&nbsp;</p><p>Opened in 2008, the sports centre houses top range training facilities and acts as the home for several Sutton Bonington student <a title=\"SB sports clubs\" class=\"sys_16\" href=\"https://www.su.nottingham.ac.uk/sports/\">sports clubs</a>.&nbsp;</p><p>Memberships is also available at the Sutton Bonington sports centre for members of the public.</p>",
+    "images": "https://www.nottingham.ac.uk/Sport/Images-Multimedia/suttonboningtonsportscentre-Cropped-466x335.jpg"
+  },
+  {
+    "id": 12,
+    "parent_id": 0,
+    "title": "King's Meadow Campus",
+    "sub_place": 1,
+    "description": "<p>King's Meadow Campus was acquired by The University of Nottingham in 2005, and has since been refurbished and extensively landscaped, with peaceful gardens and a fresh injection of year-round colour and foliage.</p><p>The new name for the former ITV television studio complex in Nottingham was inspired by the adjacent King’s Meadow Nature Reserve, alongside the River Leen.</p><p>The King’s Meadow Campus is framed by the dramatic “Learning Curve” entrance and accommodates many of the University’s professional services and business support departments.</p><p>Situated on the edge of the Dunkirk district,&nbsp;it is less than a mile from <a title=\"University Park Campus\" class=\"sys_0 sys_t0\" href=\"/about/campuses/universityparkcampus.aspx\">University Park</a> &nbsp;and <a title=\"Jubilee Campus\" class=\"sys_0 sys_t0\" href=\"/about/campuses/jubileecampus.aspx\">Jubilee Campus</a>, and many offices and meeting rooms overlook Nottingham’s historic castle.</p><p>King’s Meadow Campus is home to <a title=\"Manuscripts and Special Collections\" class=\"sys_0 sys_t0\" href=\"/about/facilities/manuscriptsandspecialcollections.aspx\">Manuscripts and Special Collections</a>.</p>",
+    "images": "https://www.nottingham.ac.uk/about/images/campuses/campuses-kmc.jpg"
+  },
+  {
+    "id": 13,
+    "parent_id": 12,
+    "title": "Manuscripts and Special Collections",
+    "sub_place": 0,
+    "description": "<p>The University of Nottingham’s Manuscripts and Special Collections are&nbsp;located at <a title=\"King's Meadow Campus\" class=\"sys_0 sys_t0\" href=\"/about/campuses/kingsmeadowcampus.aspx\">King's Meadow Campus</a>&nbsp;on Lenton Lane. The University has been collecting manuscripts since the early 1930s. The service now offers:</p><ul>\n\n<li>approximately 3 million documents </li>\n\n<li>60,000 rare books </li>\n\n<li>a public reading room </li></ul><p>Collections and archives of books cover a wide range of subjects. Website guides include the following.</p><ul>\n\n<li><a title=\"All collections\" class=\"sys_0 sys_t0\" href=\"/manuscriptsandspecialcollections/collections/allcollections/introduction.aspx\">All Collections</a> </li>\n\n<li>All Catalogues </li>\n\n<li><a title=\"Collections in Context\" class=\"sys_0 sys_t0\" href=\"/manuscriptsandspecialcollections/collectionsindepth/introduction.aspx\">Collections in Context</a>&nbsp;─ detailed information about&nbsp;local families and their estates, Archdeaconry of Nottingham and other groups of archives </li>\n\n<li><a title=\"DH Lawrence resources\" class=\"sys_0 sys_t0\" href=\"/manuscriptsandspecialcollections/collectionsindepth/lawrence/introduction.aspx\">DH Lawrence Collections</a> </li>\n\n<li><a title=\"East Midlands Collection\" class=\"sys_0 sys_t0\" href=\"/manuscriptsandspecialcollections/collectionsindepth/eastmidlandscollection/eastmidlandscollection.aspx\">East Midlands Collection</a>&nbsp;─ local studies literature </li>\n\n<li><a title=\"Spotlight on the Collections\" class=\"sys_16\" href=\"http://spotlight.nottingham.ac.uk/\">Spotlight on the Collections</a> ─ selected highlights </li>\n\n<li><a title=\"Learning resources\" class=\"sys_0 sys_t0\" href=\"/manuscriptsandspecialcollections/learning/introduction.aspx\">Learning Resources</a>─ selected themes from the collections </li>\n\n<li><a title=\"Research Guidance\" class=\"sys_0 sys_t0\" href=\"/manuscriptsandspecialcollections/researchguidance/introduction.aspx\">Research Guidance</a>─ use of archives </li>\n\n<li><a title=\"Schools Resources\" class=\"sys_0 sys_t0\" href=\"/manuscriptsandspecialcollections/teaching/introduction.aspx\">Schools Resources</a> ─ for teachers </li>\n\n<li><a title=\"Exhibitions and Gallery\" class=\"sys_0 sys_t0\" href=\"/manuscriptsandspecialcollections/exhibitions/oldintro.aspx\">Exhibitions</a> </li></ul>",
+    "images": "https://www.nottingham.ac.uk/About/Images/manuscriptsandspecialcollections.jpg"
+  },
+  {
+    "id": 14,
+    "parent_id": 0,
+    "title": "Medical School",
+    "sub_place": 2,
+    "description": "<p>The Medical School opened in 1970 as part of the <a class=\"sys_16\" href=\"https://www.nuh.nhs.uk/\">QMC (Queen's Medical Centre)</a>&nbsp;and was the first to be established in the UK in the 20th century. Major investments have been made to provide modern, high quality facilities.</p><p>It is located&nbsp;adjacent to <a title=\"University Park Campus\" class=\"sys_0 sys_t0\" href=\"/about/campuses/universityparkcampus.aspx\">University Park</a>, across the busy A52.&nbsp;The two campuses are linked by a pedestrian footbridge giving easy access to the University Park <a title=\"University facilities\" class=\"sys_0 sys_t0\" href=\"/about/facilities/facilities.aspx\">facilities</a>.</p><h2>Studying at the Medical School</h2><p>The Medical School is used by many of our <a title=\"School of Medicine\" class=\"sys_0 sys_t0\" href=\"/medicine/index.aspx\"><strong>medicine</strong></a>&nbsp;and <strong><a title=\"School of Health Sciences\" class=\"sys_0 sys_t0\" href=\"/healthsciences/index.aspx\">health sciences</a> </strong>students (midwifery and nursing),&nbsp;and by those studying on our&nbsp;<strong>life sciences </strong>courses (biochemistry and neurosciences).</p><p>The Medical School also houses the <strong><a title=\"Clinical Skills Centre\" class=\"sys_0 sys_t0\" href=\"/mhs/facilities/clinical-skills/index.aspx\">Clinical Skills Centre</a></strong>, labs, lecture rooms, seminar rooms, a resource room, a dissection suite and the <strong><a title=\"Greenfield Medical Library\" class=\"sys_0 sys_t0\" href=\"/library/using/libraries/gml/gml.aspx\"><strong>Greenfield Medical library</strong>.</a> </strong></p>",
+    "images": "https://www.nottingham.ac.uk/about/images/campuses/campuses-qmc.jpg"
+  },
+  {
+    "id": 15,
+    "parent_id": 14,
+    "title": "Clinical Skills Centre",
+    "sub_place": 0,
+    "description": "<p>Welcome to the Faculty of Medicine and Health Sciences Clinical Skills Centre. We are a multidisciplinary centre based on the D floor link corridor between the Medical School and South block (Nottingham University Hospitals) in Queen's Medical Centre, Nottingham.</p><p>Our function is to support the teaching, learning and assessment of clinical skills by our healthcare students, including Dietetics, Medicine, Midwifery, Nursing, Pharmacy and Physiotherapy.</p><p><strong> Quick Links:</strong></p><ul>\n<li><a class=\"bgPadlock-left\" href=\"https://workspace.nottingham.ac.uk/display/CSC/Home\">Clinical Skills workspace</a></li>\n<li><a title=\"Drop-In Sessions\" class=\"sys_0 sys_t0\" href=\"/mhs/facilities/clinical-skills/drop-in/index.aspx\">Drop-in sessions</a></li>\n</ul>",
+    "images": "https://www.nottingham.ac.uk/MHS/Images-Multimedia/clinical-skills/clinical-skills.jpg"
+  },
+  {
+    "id": 16,
+    "parent_id": 14,
+    "title": "Greenfield Medical Library",
+    "sub_place": 0,
+    "description": "Welcome to Greenfield Medical Library - supporting the Faculty of Medicine and Health Sciences and providing library services for Nottingham University Hospitals NHS Trust staff.",
+    "images": "https://www.nottingham.ac.uk/library/images-multimedia/libraries-2020/gml-banner.png"
+  },
+  {
+    "id": 17,
+    "parent_id": 0,
+    "title": "University Hospital Sites",
+    "sub_place": 0,
+    "description": "",
+    "images": "https://www.nottingham.ac.uk/about/images/campuses/campuses-university-hospitals.jpg"
+  },
+  {
+    "id": 18,
+    "parent_id": 17,
+    "title": "Queen's Medical Centre",
+    "sub_place": 0,
+    "description": "<p>The Queen's Medical Centre is part of <a class=\"sys_16\" href=\"https://www.nuh.nhs.uk/\">Nottingham University Hospitals NHS Trust</a> and home to the&nbsp;<a title=\"Medical School\" class=\"sys_0 sys_t0\" href=\"/about/campuses/medicalschool.aspx\">University of Nottingham's Medical School</a>, which is based next to the University Park Campus.</p><p>Visit the <a title=\"Medical School\" class=\"sys_0 sys_t0\" href=\"/about/campuses/medicalschool.aspx\">Medical School</a>&nbsp;for more information.</p>",
+    "images": "https://www.nottingham.ac.uk/About/Images/qmc-centre.jpg"
+  },
+  {
+    "id": 19,
+    "parent_id": 17,
+    "title": "Royal Derby Hospital",
+    "sub_place": 0,
+    "description": "<p>The Education Centre at the <a class=\"sys_16\" href=\"http://www.derbyhospitals.nhs.uk/about/our-hospitals/royal-derby-hospital/\">Royal Derby Hospital</a> is based in one of the biggest hospitals in the East Midlands. It provides state-of-the-art teaching and learning facilities for students and is fully equipped with social and administrative facilities.&nbsp;</p><p>The centre offers:</p><ul>\n<li>flexible classrooms</li>\n<li>a four-bed bay skills suite</li>\n<li>simulation suite</li>\n<li>virtual learning hub</li>\n<li>a large multidisciplinary library</li>\n</ul><h3>Studying at the Royal Derby Hospital</h3><p>The Royal Derby Hospital is home to the&nbsp;<a title=\"School of Medicine\" class=\"sys_0 sys_t0\" href=\"/medicine/index.aspx\"><strong>School of Medicine</strong></a>&nbsp;with over 1200 students on the following courses:&nbsp;</p><ul>\n<li>Graduate Entry Medicine</li>\n<li>BSc Medical Physiology and Therapeutics</li>\n</ul><p>This student community provides many opportunities for interprofessional learning.</p><p>There is also clinical and translational research, spanning molecular mechanisms through to clinical trials. Research is funded by the Biological and Biotechnological Sciences Research Council, British Heart Foundation, Health Technology Assessment, Action Medical Research, Kidney Research UK, amongst others.</p><h3>Being a student at Derby</h3><p>The University of Nottingham at Derby (UNAD) Committee represents all students at Derby and works hard to ensure the student experience in Derby is the best it can be. That means organising events and activities, but also putting forward any ideas or concerns you might have about life at the Derby Campus.&nbsp;</p><h3>Facts about Derby</h3><ul>\n<li>Derby is the most central city in the country</li>\n<li>Derby is close to the M1, the M6, East Midlands Airport and is on a direct train line to London St Pancras</li>\n<li>£2b is currently being invested in the city – projects include renovating the railway station and transforming the riverside</li>\n<li>Darley Park, near the centre of Derby, hosts the UK's largest free classical music concert&nbsp;</li>\n</ul>",
+    "images": "https://www.nottingham.ac.uk/About/Images/derby-centre.jpg"
+  },
+  {
+    "id": 20,
+    "parent_id": 17,
+    "title": "Nottingham City Hospital",
+    "sub_place": 0,
+    "description": "<p>Approximately four miles north east of University Park Campus, Nottingham City Hospital is accessed by a regular bus service from the Queen’s Medical Centre (adjacent to University Park).</p><p>Purpose-built University facilities have been developed at&nbsp;<a class=\"sys_16\" href=\"https://www.nuh.nhs.uk/getting-here/city-hospital/\">Nottingham City Hospital</a>, which is the base for education for physiotherapy and sport rehabilitation students.&nbsp;</p><h3>Facilities</h3><p>The Clinical Sciences Building at City Hospital is purpose-built and contains:</p><ul>\n<li>a 200-seat lecture theatre</li>\n<li>two large lecture rooms</li>\n<li>several smaller tutorial and meeting&nbsp;rooms&nbsp;</li>\n<li>four large practical rooms</li>\n<li>state-of-the-art human performance laboratory</li>\n<li>large group study area</li>\n</ul><p>These are stocked with all the equipment necessary for practical skills teaching. The brand new Clinical Skills Suite at the Medical School is used for some interprofessional and skills teaching.</p><p>Full library services are available on site. There is free Wi-Fi throughout the building and a fully equipped computer suite, available for use 24 hours a day, 7 days a week. A new common room with kitchen and laptop points gives students a base on days when teaching is timetabled most or all of the day.&nbsp;</p>",
+    "images": "https://www.nottingham.ac.uk/About/Images/city-hospital.jpg"
+  }
+]
