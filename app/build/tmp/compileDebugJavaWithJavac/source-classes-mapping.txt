@@ -1,0 +1,167 @@
+com/example/tours/viewmodels/BrowseViewModel_Factory.java
+ com.example.tours.viewmodels.BrowseViewModel_Factory
+com/example/tours/features/fragments/ToursSubListFragment_MembersInjector.java
+ com.example.tours.features.fragments.ToursSubListFragment_MembersInjector
+com/example/tours/features/fragments/ToursListFragment_MembersInjector.java
+ com.example.tours.features.fragments.ToursListFragment_MembersInjector
+androidx/databinding/DataBinderMapperImpl.java
+ androidx.databinding.DataBinderMapperImpl
+com/example/tours/di/module/FragmentBuildersModule_ContributeProfileFragment.java
+ com.example.tours.di.module.FragmentBuildersModule_ContributeProfileFragment
+ com.example.tours.di.module.FragmentBuildersModule_ContributeProfileFragment$ProfileFragmentSubcomponent
+ com.example.tours.di.module.FragmentBuildersModule_ContributeProfileFragment$ProfileFragmentSubcomponent$Builder
+com/example/tours/DataBindingTriggerClass.java
+ com.example.tours.DataBindingTriggerClass
+androidx/databinding/library/baseAdapters/BR.java
+ androidx.databinding.library.baseAdapters.BR
+com/example/tours/databinding/FragmentProfileBindingImpl.java
+ com.example.tours.databinding.FragmentProfileBindingImpl
+com/example/tours/features/activities/main/MainActivity_MembersInjector.java
+ com.example.tours.features.activities.main.MainActivity_MembersInjector
+com/example/tours/databinding/FragmentToursDetailBinding.java
+ com.example.tours.databinding.FragmentToursDetailBinding
+com/example/tours/di/module/SubMainActivityModule_ContributeSubMainActivity.java
+ com.example.tours.di.module.SubMainActivityModule_ContributeSubMainActivity
+ com.example.tours.di.module.SubMainActivityModule_ContributeSubMainActivity$SubMainActivitySubcomponent
+ com.example.tours.di.module.SubMainActivityModule_ContributeSubMainActivity$SubMainActivitySubcomponent$Builder
+com/example/tours/databinding/ToursItemBindingImpl.java
+ com.example.tours.databinding.ToursItemBindingImpl
+com/example/tours/databinding/FragmentBrowseDetailBindingImpl.java
+ com.example.tours.databinding.FragmentBrowseDetailBindingImpl
+com/example/tours/viewmodels/ToursViewModel_Factory.java
+ com.example.tours.viewmodels.ToursViewModel_Factory
+com/example/tours/di/module/FragmentBuildersModule_ContributeBrowseFragment.java
+ com.example.tours.di.module.FragmentBuildersModule_ContributeBrowseFragment
+ com.example.tours.di.module.FragmentBuildersModule_ContributeBrowseFragment$BrowseFragmentSubcomponent
+ com.example.tours.di.module.FragmentBuildersModule_ContributeBrowseFragment$BrowseFragmentSubcomponent$Builder
+com/example/tours/di/module/FragmentBuildersModule_ContributeBrowseDetailFragment.java
+ com.example.tours.di.module.FragmentBuildersModule_ContributeBrowseDetailFragment
+ com.example.tours.di.module.FragmentBuildersModule_ContributeBrowseDetailFragment$BrowseDetailFragmentSubcomponent
+ com.example.tours.di.module.FragmentBuildersModule_ContributeBrowseDetailFragment$BrowseDetailFragmentSubcomponent$Builder
+com/example/tours/di/module/MainActivityModule_ContributeMainActivity.java
+ com.example.tours.di.module.MainActivityModule_ContributeMainActivity
+ com.example.tours.di.module.MainActivityModule_ContributeMainActivity$MainActivitySubcomponent
+ com.example.tours.di.module.MainActivityModule_ContributeMainActivity$MainActivitySubcomponent$Builder
+com/example/tours/databinding/FragmentToursListBinding.java
+ com.example.tours.databinding.FragmentToursListBinding
+com/example/tours/databinding/FragmentBrowseBindingImpl.java
+ com.example.tours.databinding.FragmentBrowseBindingImpl
+com/example/tours/databinding/ToursSubItemBinding.java
+ com.example.tours.databinding.ToursSubItemBinding
+com/example/tours/features/activities/main/SubMainActivity_MembersInjector.java
+ com.example.tours.features.activities.main.SubMainActivity_MembersInjector
+com/example/tours/databinding/ToursItemBinding.java
+ com.example.tours.databinding.ToursItemBinding
+com/example/tours/viewmodels/ViewModelFactory_Factory.java
+ com.example.tours.viewmodels.ViewModelFactory_Factory
+com/example/tours/di/module/NetworkModule_ProvideOkHttpClient$app_debugFactory.java
+ com.example.tours.di.module.NetworkModule_ProvideOkHttpClient$app_debugFactory
+com/example/tours/databinding/FragmentToursListBindingImpl.java
+ com.example.tours.databinding.FragmentToursListBindingImpl
+com/example/tours/di/module/NetworkModule_ProvideRetrofitInterface$app_debugFactory.java
+ com.example.tours.di.module.NetworkModule_ProvideRetrofitInterface$app_debugFactory
+com/example/tours/di/module/FragmentBuildersModule_ContributeToursSubListFragment.java
+ com.example.tours.di.module.FragmentBuildersModule_ContributeToursSubListFragment
+ com.example.tours.di.module.FragmentBuildersModule_ContributeToursSubListFragment$ToursSubListFragmentSubcomponent
+ com.example.tours.di.module.FragmentBuildersModule_ContributeToursSubListFragment$ToursSubListFragmentSubcomponent$Builder
+com/example/tours/databinding/TabsItemBinding.java
+ com.example.tours.databinding.TabsItemBinding
+com/example/tours/databinding/FragmentBrowseDetailBinding.java
+ com.example.tours.databinding.FragmentBrowseDetailBinding
+com/example/tours/di/module/FragmentBuildersModule_ContributeToursListFragment.java
+ com.example.tours.di.module.FragmentBuildersModule_ContributeToursListFragment
+ com.example.tours.di.module.FragmentBuildersModule_ContributeToursListFragment$ToursListFragmentSubcomponent
+ com.example.tours.di.module.FragmentBuildersModule_ContributeToursListFragment$ToursListFragmentSubcomponent$Builder
+com/example/tours/DataBinderMapperImpl.java
+ com.example.tours.DataBinderMapperImpl
+ com.example.tours.DataBinderMapperImpl$InnerBrLookup
+ com.example.tours.DataBinderMapperImpl$InnerLayoutIdLookup
+com/example/tours/databinding/ActivityMainBinding.java
+ com.example.tours.databinding.ActivityMainBinding
+com/example/tours/databinding/FragmentToursSubListBindingImpl.java
+ com.example.tours.databinding.FragmentToursSubListBindingImpl
+com/example/tours/databinding/FragmentToursSubListBinding.java
+ com.example.tours.databinding.FragmentToursSubListBinding
+com/example/tours/di/component/DaggerAppComponent.java
+ com.example.tours.di.component.DaggerAppComponent
+ com.example.tours.di.component.DaggerAppComponent$1
+ com.example.tours.di.component.DaggerAppComponent$2
+ com.example.tours.di.component.DaggerAppComponent$Builder
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$1
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$2
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$3
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$4
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$5
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$6
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$BrowseDetailFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$BrowseDetailFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$BrowseFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$BrowseFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$ProfileFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$ProfileFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$ToursDetailFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$ToursDetailFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$ToursListFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$ToursListFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$ToursSubListFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$MainActivitySubcomponentImpl$ToursSubListFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$1
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$2
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$3
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$4
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$5
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$6
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$BrowseDetailFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$BrowseDetailFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$BrowseFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$BrowseFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$ProfileFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$ProfileFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$ToursDetailFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$ToursDetailFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$ToursListFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$ToursListFragmentSubcomponentImpl
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$ToursSubListFragmentSubcomponentBuilder
+ com.example.tours.di.component.DaggerAppComponent$SubMainActivitySubcomponentImpl$ToursSubListFragmentSubcomponentImpl
+com/example/tours/databinding/ToursSubItemBindingImpl.java
+ com.example.tours.databinding.ToursSubItemBindingImpl
+com/example/tours/databinding/TabsItemBindingImpl.java
+ com.example.tours.databinding.TabsItemBindingImpl
+com/example/tours/features/fragments/BrowseDetailFragment_MembersInjector.java
+ com.example.tours.features.fragments.BrowseDetailFragment_MembersInjector
+com/example/tours/features/fragments/BrowseFragment_MembersInjector.java
+ com.example.tours.features.fragments.BrowseFragment_MembersInjector
+com/example/tours/databinding/FragmentProfileBinding.java
+ com.example.tours.databinding.FragmentProfileBinding
+com/example/tours/App_MembersInjector.java
+ com.example.tours.App_MembersInjector
+com/example/tours/databinding/FragmentBrowseBinding.java
+ com.example.tours.databinding.FragmentBrowseBinding
+com/example/tours/BR.java
+ com.example.tours.BR
+com/example/tours/features/fragments/ToursDetailFragment_MembersInjector.java
+ com.example.tours.features.fragments.ToursDetailFragment_MembersInjector
+com/example/tours/databinding/FragmentToursDetailBindingImpl.java
+ com.example.tours.databinding.FragmentToursDetailBindingImpl
+com/example/tours/viewmodels/ToursSubViewModel_Factory.java
+ com.example.tours.viewmodels.ToursSubViewModel_Factory
+com/example/tours/di/module/NetworkModule_ProvideRestApi$app_debugFactory.java
+ com.example.tours.di.module.NetworkModule_ProvideRestApi$app_debugFactory
+com/example/tours/databinding/ActivitySubMainBinding.java
+ com.example.tours.databinding.ActivitySubMainBinding
+com/example/tours/di/module/FragmentBuildersModule_ContributeToursDetailFragment.java
+ com.example.tours.di.module.FragmentBuildersModule_ContributeToursDetailFragment
+ com.example.tours.di.module.FragmentBuildersModule_ContributeToursDetailFragment$ToursDetailFragmentSubcomponent
+ com.example.tours.di.module.FragmentBuildersModule_ContributeToursDetailFragment$ToursDetailFragmentSubcomponent$Builder
+com/example/tours/BuildConfig.java
+ com.example.tours.BuildConfig
+com/example/tours/features/fragments/ProfileFragment_MembersInjector.java
+ com.example.tours.features.fragments.ProfileFragment_MembersInjector
+androidx/databinding/DataBindingComponent.java
+ androidx.databinding.DataBindingComponent
+com/example/tours/di/module/NetworkModule_ProvideMockClient$app_debugFactory.java
+ com.example.tours.di.module.NetworkModule_ProvideMockClient$app_debugFactory
